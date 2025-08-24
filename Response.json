@@ -1,0 +1,25 @@
+{
+    "subject":"A",
+    "quiz":{
+        "1": {
+            "mcq": "multiple choice question",
+            "options": {
+                "A": "option A",
+                "B": "option B",
+                "C": "option C",
+                "D": "option D"
+            },
+            "answer": "correct option"
+        },
+        "2": {
+            "mcq": "multiple choice question",
+            "options": {
+                "A": "option A",
+                "B": "option B",
+                "C": "option C",
+                "D": "option D"
+            },
+            "answer": "correct option"
+        }
+    }
+}
