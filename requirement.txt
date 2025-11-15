@@ -6,5 +6,6 @@ langchain-openai
 streamlit
 python-dotenv
 PyPDF2
+google-search-results
 
 -e .
