@@ -151,6 +151,6 @@ generate_review_chain = (
     )
 )
 
-quiz = {'subject': 'A', 'quiz': {'1': {'mcq': 'What is the main purpose of an autoencoder?', 'options': {'A': 'To classify data', 'B': 'To encode input into a compressed representation and then decode it back to reconstruct the input', 'C': 'To generate random data', 'D': 'To train supervised models for labels'}, 'answer': 'B'}, '2': {'mcq': 'What is the key idea behind denoising autoencoders?', 'options': {'A': 'They remove noise from the dataset before training', 'B': 'They corrupt the input with noise and the model reconstructs the clean input', 'C': 'They produce random noise in the latent space', 'D': 'They use labeled data for training'}, 'answer': 'B'}}}
+# quiz = {'subject': 'A', 'quiz': {'1': {'mcq': 'What is the main purpose of an autoencoder?', 'options': {'A': 'To classify data', 'B': 'To encode input into a compressed representation and then decode it back to reconstruct the input', 'C': 'To generate random data', 'D': 'To train supervised models for labels'}, 'answer': 'B'}, '2': {'mcq': 'What is the key idea behind denoising autoencoders?', 'options': {'A': 'They remove noise from the dataset before training', 'B': 'They corrupt the input with noise and the model reconstructs the clean input', 'C': 'They produce random noise in the latent space', 'D': 'They use labeled data for training'}, 'answer': 'B'}}}
 
-verify_quiz_with_serpapi(quiz)
+# verify_quiz_with_serpapi(quiz)
